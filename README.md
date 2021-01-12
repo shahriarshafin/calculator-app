@@ -1,5 +1,5 @@
 # Java Calculator
-- ### Programming language: Java
+- ### Programming language: Plain Java
 - ### Using IDE: Netbeans
 - ### Layout Tool: Scene Builder
 - ### Some buttons do not correctly work.
